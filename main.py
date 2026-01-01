@@ -74,8 +74,8 @@ def get_category_emoji(category: str) -> str:
 load_dotenv()
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
-ADMIN_PASSWORD = os.getenv('ADMIN_PASSWORD', '2008')
-ADMIN_IDS = list(map(int, os.getenv('ADMIN_IDS', '586212504').split(',')))
+ADMIN_PASSWORD = os.getenv('ADMIN_PASSWORD', '121314')
+ADMIN_IDS = list(map(int, os.getenv('ADMIN_IDS', '7748631320').split(',')))
 
 # Logging
 logging.basicConfig(
