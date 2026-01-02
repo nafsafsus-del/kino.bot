@@ -443,7 +443,7 @@ async def cmd_help(msg: Message):
         f"🏷️ Kategoriyalar\n"
         f"❤️ Sevimli kinolar\n\n"
         f"👑 Admin: /admin\n"
-        f"📞 Aloqa: @mirzayyevv"
+        f"📞 Aloqa: @Thesharifov"
     )
 
 
